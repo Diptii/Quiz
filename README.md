@@ -1,0 +1,2 @@
+# Quiz
+Hi Everyone,  I made this "Knowledge Tester" quiz website with login authentication. I made it using HTML, CSS, bootstrap and JavaScript  𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐨𝐧.  Firstly, you have to register. After registration, you will be redirected to the login page.if your entered login credentials are correct the a quiz page will open.   Quiz page contains 15 questions with 10 points each. I have also added a video in background. After finishing the quiz, your overall score will be displayed. Here is also a demonstration video attached.  Do like!!
